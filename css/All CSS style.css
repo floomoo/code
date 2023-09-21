@@ -1,0 +1,53 @@
+.steve{
+    font-family: 'Franklin Gothic Medium', 
+    'Arial Narrow', Arial, sans-serif;
+    color: green;
+    text-align: left;
+
+}
+/* these are diffenet css style, the first one with steve 
+is when you usa a dot and add the code in html as class
+then put the name after the dot to match up */
+
+h1{
+    font-family: 'Gill Sans',
+     'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: blue;
+}
+/* this css the 'h1', is used in the html what ever 
+elements you use in  the html
+you add it to the css and it will show on the page  */
+
+
+
+#Devon{
+    text-align: left;
+    color: brown;
+}
+
+/* the number sign can work as well as an id and 
+the id after */
+
+
+
+#dotted{
+    border-style: dotted dashed solid double;
+    padding:40px ;
+    margin: 40px;
+    width: 60px;
+    height: 60px;
+}
+
+.example {background: url(picture.png);
+    
+padding: auto;
+max-width: 500px;
+width: 500px;
+height: 500px;
+}
+
+
+
+
+
+
